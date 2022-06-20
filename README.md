@@ -7,7 +7,15 @@
 ---
 
 <details>
-  <summary>GitHub stats</summary>
+  <summary>Tech and Tools</summary></br>
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,java,bash,git)](https://skillicons.dev)
+  
+  ---
+
+</details>
+<details>
+  <summary>GitHub stats</summary></br>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamildzierzak&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -15,7 +23,7 @@
 
 </details>
 <details>
-  <summary>WakaTime stats</summary>
+  <summary>WakaTime stats</summary></br>
 
   <!-- START_SECTION:waka -->
   <!--END_SECTION:waka-->
