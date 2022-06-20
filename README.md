@@ -6,11 +6,11 @@
 
 ---
 
-### WakaTime monthly stats
-<!-- START_SECTION:waka -->
-<!--END_SECTION:waka-->
+### GitHub stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamildzierzak&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### GitHub stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamildzierzak)](https://github.com/anuraghazra/github-readme-stats)
+### WakaTime monthly stats
+<!-- START_SECTION:waka -->
+<!--END_SECTION:waka-->
