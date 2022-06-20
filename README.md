@@ -4,7 +4,7 @@
 ---
 
 <h4 >About me</h4>
-- I study Computer Science at the [Polish-Japanese Academy of Information Technology](https://www.pja.edu.pl/en/) 💻
+- I study Computer Science at the Polish-Japanese Academy of Information Technology 💻
 
 
 ---
