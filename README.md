@@ -25,8 +25,8 @@
 <details>
   <summary>WakaTime stats</summary></br>
 
-<!-- START_SECTION:waka -->
-<!--END_SECTION:waka-->
- 
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
   ---
 </details>
