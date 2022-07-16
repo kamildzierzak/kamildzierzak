@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Kamil
 ### A student and developer from Poland, currently living in Norway
 - 👨‍🎓 I study Computer Science at the [Polish-Japanese Academy of Information Technology](https://www.pja.edu.pl/en/) 
-- 💻 This year I want to focus on my studies, but in my spare time I want to develop my skills in web technologies
+- 💻 This year I want to focus on my studies, but in my spare time I try to learn the Front-End technologies.
 - 📖 I like reading books and listening 🎧 to podcasts mainly about popular science, science, technology, sci-fi and fantasy
 
 ---
