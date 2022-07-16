@@ -17,3 +17,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           TIME_RANGE: last_14_days
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SHOW_TOTAL: true
