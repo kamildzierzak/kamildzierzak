@@ -28,6 +28,8 @@
   <!--START_SECTION:waka-->
 
 ```text
+From: 09 July 2022 - To: 16 July 2022
+
 Total Time: 7 hrs 42 mins
 
 Java       5 hrs 57 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀   76.65 %
