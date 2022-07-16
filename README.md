@@ -26,7 +26,15 @@
   <summary>WakaTime stats</summary></br>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```text
+Java       5 hrs 57 mins   ███████████████████░░░░░░   76.65 %
+Markdown   1 hr 36 mins    █████░░░░░░░░░░░░░░░░░░░░   20.59 %
+JSON       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Other      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+```
+
+<!--END_SECTION:waka-->
 
   ---
 </details>
