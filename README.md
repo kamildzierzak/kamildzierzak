@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Kamil
 
 ## About Me
-I'm a CS student at PJATK, aspiring to become a great full-stack dev one day.
+I'm a last year CS student at PJATK, aspiring to become a great full-stack dev one day 😊.
 
 - ⚒️ I’m currently working on some freelance projects, mainly websites. I keep them private. Because i have to 😔
 - 😏 I'm working on my personal projects too, but I keep them private as well. At least for now!
